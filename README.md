@@ -2,6 +2,8 @@
 
 Rising food prices significantly affect the nutritional status and overall health of populations, especially for low-income families. When the cost of nutritious foods like fruits, vegetables, and lean proteins increases, access to a balanced diet becomes difficult. This economic barrier often forces individuals to choose cheaper, less nutritious options, leading to malnutrition, undernourishment, and diet-related diseases. Understanding these dynamics is essential for creating effective policies and interventions that promote food security and public health. This case study explores the impact of food prices on health and proposes solutions to improve food security and nutrition.
 
+<img width="616" alt="Health" src="https://github.com/user-attachments/assets/c3d68215-5986-441c-9d9b-3cfe30e826e7">
+
 ## Expected Outcomes
 + Improved understanding of healthy diet affordability.
 + Insights into the relationship between undernourishment and food prices.
